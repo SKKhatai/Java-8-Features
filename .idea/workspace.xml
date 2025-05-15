@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="794c6b8c-a25b-47c4-9ace-d7c32fa98ca4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/java8interviewQuestions/example2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LambdaExpressions/MyWindow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8interviewQuestions/CheckDuplicateInArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8interviewQuestions/ConcatTwoStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8interviewQuestions/ConvertWords.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8interviewQuestions/DateAndTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8interviewQuestions/FindDuplicateElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8interviewQuestions/IntegerProblem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8interviewQuestions/ListProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8interviewQuestions/PrintTenRandomNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8interviewQuestions/SortTheList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8interviewQuestions/SqureGreaterThanFifty.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stream_api/StreamExample1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stream_api/StreamMain1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stream_api/StreamMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stream_api/StreamObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stream_api/StreamReducefunction.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2viZyt7SETINgIZ248Y1JVPLMxC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CheckDuplicateInArray.executor": "Run",
+    "Application.ConcatTwoStream.executor": "Run",
+    "Application.ConvertWords.executor": "Run",
+    "Application.DateAndTime.executor": "Run",
+    "Application.FindDuplicateElement.executor": "Run",
+    "Application.IntegerProblem.executor": "Run",
+    "Application.ListProgram.executor": "Run",
+    "Application.MyWindow.executor": "Run",
+    "Application.PrintTenRandomNumber.executor": "Run",
+    "Application.SortTheList.executor": "Run",
+    "Application.SqureGreaterThanFifty.executor": "Run",
+    "Application.StreamExample1.executor": "Run",
+    "Application.StreamMain1.executor": "Run",
+    "Application.StreamMap.executor": "Run",
+    "Application.StreamObject.executor": "Run",
+    "Application.StreamReducefunction.executor": "Run",
+    "Application.ToConcatTwoString.executor": "Run",
+    "Application.findtheFirstElement.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/JSP_ADV_JAVA/Java8Features/Java-8-Features",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.IntegerProblem">
+    <configuration name="ConcatTwoStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8interviewQuestions.ConcatTwoStream" />
+      <module name="Java8Features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8interviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConvertWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8interviewQuestions.ConvertWords" />
+      <module name="Java8Features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8interviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntegerProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8interviewQuestions.IntegerProblem" />
+      <module name="Java8Features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8interviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8interviewQuestions.ListProgram" />
+      <module name="Java8Features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8interviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintTenRandomNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8interviewQuestions.PrintTenRandomNumber" />
+      <module name="Java8Features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8interviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.IntegerProblem" />
+        <item itemvalue="Application.PrintTenRandomNumber" />
+        <item itemvalue="Application.ConvertWords" />
+        <item itemvalue="Application.ConcatTwoStream" />
+        <item itemvalue="Application.ListProgram" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="794c6b8c-a25b-47c4-9ace-d7c32fa98ca4" name="Changes" comment="" />
+      <created>1744630115254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744630115254</updated>
+    </task>
+    <servers />
+  </component>
+</project>
