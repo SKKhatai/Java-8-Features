@@ -17,6 +17,7 @@ A practical guide to Java 8's most important features, with code examples, best 
 
 
 📖 Code Examples
+
 1. Lambda Expressions
 
 ->example:
