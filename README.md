@@ -7,12 +7,7 @@ A collection of practical examples and explanations demonstrating the powerful f
 - [Features Covered](#features-covered)
 - [Getting Started](#getting-started)
 - [Examples](#examples)
-- [Project Structure](#project-structure)
 - [Requirements](#requirements)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Features Covered
 
 This project demonstrates the following Java 8 features:
