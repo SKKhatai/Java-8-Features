@@ -73,7 +73,6 @@ Java-8-Features/
 ├── src/
 │   └── ... (Java classes demonstrating each feature)
 ├── README.md
-└── LICENSE
 ```
 
 ## Requirements
