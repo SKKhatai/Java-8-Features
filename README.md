@@ -27,9 +27,6 @@ This project demonstrates the following Java 8 features:
    ```bash
    git clone https://github.com/SKKhatai/Java-8-Features.git
    ```
-2. **Open in your favorite IDE (e.g., IntelliJ, Eclipse).**
-3. **Build and run the examples.**
-
 ## Examples
 
 Here are some key examples included in this repository:
