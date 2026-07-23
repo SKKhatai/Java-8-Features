@@ -79,7 +79,7 @@ Java-8-Features/
 
 ## Contributing
 
-Contributions are welcome! Please fork the repository, create a new branch, and submit a pull request with your improvements or new examples.
+Contributions are welcome! Please fork the repository, and submit a pull request with your improvements or new examples.
 
 ## License
 
