@@ -53,15 +53,6 @@ Optional<String> optional = Optional.ofNullable(getValue());
 optional.ifPresent(System.out::println);
 ```
 
-### Date & Time API
-
-```java
-LocalDate today = LocalDate.now();
-System.out.println("Today's Date: " + today);
-```
-
-More examples are available in the code files.
-
 ## Project Structure
 
 ```
