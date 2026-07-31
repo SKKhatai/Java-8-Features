@@ -19,8 +19,6 @@ This project demonstrates the following Java 8 features:
 - **Method References**
 - **Optional Class**
 - **Date & Time API (java.time)**
-- **Collectors and Grouping**
-
 ## Getting Started
 
 1. **Clone the repository:**  
