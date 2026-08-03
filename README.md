@@ -63,8 +63,6 @@ Java-8-Features/
 ## Requirements
 
 - Java 8 or higher
-- A Java IDE or command-line tools
-
 ## Contributing
 
 Contributions are welcome! Please fork the repository, and submit a pull request with your improvements or new examples.
